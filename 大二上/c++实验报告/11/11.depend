@@ -1,0 +1,44 @@
+# depslib dependency file v1.0
+1514140582 source:g:\教学\高级语言程序设计\课件\程序\10\11\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1514140582 g:\教学\高级语言程序设计\课件\程序\10\11\resource.h
+
+1601365446 source:g:\教学\高级语言程序设计\课件\程序\10\11\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+
+1602249934 source:c:\users\lenovo\documents\tencent files\2945642192\filerecv\win32_gui演示\11\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<string>
+
+1514140582 source:c:\users\lenovo\documents\tencent files\2945642192\filerecv\win32_gui演示\11\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1514140582 c:\users\lenovo\documents\tencent files\2945642192\filerecv\win32_gui演示\11\resource.h
+
+1602404382 source:d:\11\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<string>
+	<sstream>
+	<math.h>
+
+1514140582 source:d:\11\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1514140582 d:\11\resource.h
+

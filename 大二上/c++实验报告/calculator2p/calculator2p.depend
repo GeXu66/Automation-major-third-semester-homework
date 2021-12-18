@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1600582344 source:d:\calculator2p\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+

@@ -1,0 +1,17 @@
+# depslib dependency file v1.0
+1602404608 source:d:\calculator4\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<string>
+	<sstream>
+	<math.h>
+
+1602405509 source:d:\作业们\c++实验报告\calculator4\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+	<string>
+	<sstream>
+	<math.h>
+

@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1601787427 source:d:\calculator3\main.cpp
+	<iostream>
+	<string>
+	<math.h>
+

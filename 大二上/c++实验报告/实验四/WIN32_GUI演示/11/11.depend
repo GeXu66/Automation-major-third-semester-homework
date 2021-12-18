@@ -1,0 +1,14 @@
+# depslib dependency file v1.0
+1514140582 source:g:\教学\高级语言程序设计\课件\程序\10\11\resource.rc
+	<windows.h>
+	<commctrl.h>
+	<richedit.h>
+	"resource.h"
+
+1514140582 g:\教学\高级语言程序设计\课件\程序\10\11\resource.h
+
+1601365446 source:g:\教学\高级语言程序设计\课件\程序\10\11\main.cpp
+	<windows.h>
+	<iostream>
+	<stdio.h>
+
